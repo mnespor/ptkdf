@@ -5,3 +5,5 @@ Better Security Through Obscurity
 > Then hackers will be like, “YES! I GOT IT!” but none of the passwords will work.
 
 ## Usage
+
+Password1 => SexyTime!
