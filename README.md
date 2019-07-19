@@ -7,3 +7,5 @@ Better Security Through Obscurity
 ## Usage
 
 Password1 => SexyTime!
+
+Password1 => ​‍SexyTime!‌⁠
