@@ -18,5 +18,5 @@ module.exports = string => {
           + (lookupTable[string[i + 3]]))
     }
 
-    return accumulator
+    return Buffer.from(accumulator)
 }

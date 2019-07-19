@@ -7,7 +7,6 @@ const lookupTable = [
 
 module.exports = buffer => {
     let accumulator = ''
-    console.log('got', typeof buffer, buffer)
     for (const byte of buffer) {
         const dibit0 = (byte & 0b11000000) >> 6
         const dibit1 = (byte & 0b00110000) >> 4
