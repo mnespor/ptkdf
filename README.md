@@ -6,7 +6,7 @@ Better Security Through Obscurity
 
 ## What
 
-The real salt and password are encoded into zero-width characters: The zero-width space, the zero-width non-joiner, the zero-width joiner, and the word joiner. A realistic-sounding password (derived from the salt) separates the salt and derived key in storage.
+The real salt and derived key are encoded into zero-width characters: The zero-width space, the zero-width non-joiner, the zero-width joiner, and the word joiner. A realistic-sounding password (derived from the salt) separates the salt and derived key in storage.
 
 ## Usage
 
